@@ -1,0 +1,96 @@
+body {
+  color: #f0f0f0;
+}
+
+header {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+header p {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+header h1 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+.breadcrumb .image {
+  width: 10px;
+  height: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.breadcrumb p {
+  font-size: 14px;
+  margin: 0 5px;
+}
+
+/* Style for the introduction section */
+
+.introduction {
+  padding: 20px;
+  background-color: #fff;
+}
+
+.introduction p {
+  margin-bottom: 10px;
+}
+
+/* Style for the first section */
+
+.first-section {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.first-section h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.first-section p {
+  margin-bottom: 10px;
+}
+
+.first-section ul {
+  margin-bottom: 10px;
+}
+
+.first-section li {
+  margin-bottom: 5px;
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+/* Style for the second section */
+
+.second-section {
+  padding: 20px;
+  background-color: #fff;
+}
+
+.second-section h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.second-section p {
+  margin-bottom: 10px;
+}
+
+.second-section ul {
+  margin-bottom: 10px;
+}
+
+.second-section li {
+  margin-bottom: 5px;
+  list-style-type: disc;
+  padding-left: 20px;
+}
